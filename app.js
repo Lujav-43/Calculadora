@@ -8,5 +8,4 @@ function calculoDeEdad() {
 
 
 
-alert(nombre + " tu año de nacimiento es:" + calculoDeEdad());
-
+alert(nombre + " tu año de nacimiento es: " + calculoDeEdad());
