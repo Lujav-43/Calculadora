@@ -1,5 +1,6 @@
-nombre = prompt ("Ingresa tu nombre");
+cnombre = prompt ("Ingresa tu nombre");
 añodenacimiendo = prompt ("ingresar edad");
+cumpleaños = prompt ("cuando es tu cumpleaños");
 añoActual =2026
 
 function calculoDeEdad() {
