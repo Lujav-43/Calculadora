@@ -1,4 +1,4 @@
-nombre = promt ("Ingresa tu nombre")
+nombre = prompt ("Ingresa tu nombre");
 añodenacimiendo = prompt ("ingresar edad");
 añoActual =2026
 
@@ -8,5 +8,5 @@ function calculoDeEdad() {
 
 
 
-alert(calculoDeEdad()+ nombre);
+alert(nombre + " tu año de nacimiento es:" + calculoDeEdad());
 
