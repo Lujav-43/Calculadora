@@ -1,6 +1,6 @@
 nombre = prompt ("Ingresa tu nombre");
 añodenacimiendo = prompt ("ingresar edad");
-añoActual =2026
+añoActual =2025
 
 function calculoDeEdad() {
     return añoActual - añodenacimiendo; 
