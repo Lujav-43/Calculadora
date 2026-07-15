@@ -8,4 +8,4 @@ function calculoDeEdad() {
 
 
 
-alert("Hola que tal como te va"+ nombre + " tu año de nacimiento es: " + calculoDeEdad());
+alert("Hola que tal estamos para ayudarte"+ nombre + " tu año de nacimiento es: " + calculoDeEdad());
